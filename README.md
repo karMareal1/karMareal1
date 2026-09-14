@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kareem</h1>
 <h3 align="center">A passionate upcoming Software Systems Engineer</h3>
 
-- 🔭 I’m currently working on [Orbyte](https://github.com/karMareal1/orbyte)
+-  I’m currently working on [Orbyte](https://github.com/karMareal1/orbyte)
 
-- 🌱 I’m currently learning **Flask and JavaScript**
+-  I’m currently learning **Flask and JavaScript**
 
-- 💬 Ask me about **Spring, Python libraries**
+-  Ask me about **Spring, Python libraries**
 
-- 📫 How to reach me **kareemtaher25@gmail.com**
+-  How to reach me **kareemtaher25@gmail.com**
 
-- ⚡ Fun fact **I like Soccer**
+-  Fun fact **I like Soccer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
